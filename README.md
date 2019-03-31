@@ -1,4 +1,4 @@
-# Data-Visualiztion
+# Data-Visualization
 
 R-based: Gun Violence, Honey Production, Grammar Product Reviews
 
